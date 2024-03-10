@@ -45,11 +45,6 @@ This Firebase app was created for my personal submission in CS-150. This has bee
 - Reactive Library
     - ```rxjs```
 
-## Install the app
-
-```shell
-git clone https://github.com/ShekMak/todo-next
-```
 ## Getting Started
 
 First, install dependecies
