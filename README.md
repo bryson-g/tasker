@@ -1,4 +1,4 @@
-<h1 align="center">Todo Next Firebase App</h1><br>
+<h1 align="center">Tasker</h1><br>
 <p align="center">  
 This Firebase app was created for my personal submission in CS-150. This has been made public on 3/10/2024 with my professors permission.
 </p>
@@ -12,9 +12,6 @@ This Firebase app was created for my personal submission in CS-150. This has bee
   <img src="/public/screenshot5.png" width="32%" style="margin: 50px 0px 50px 0px"/>
   <img src="/public/screenshot6.png" width="32%" style="margin: 50px 0px 50px 0px"/>
 </p>
-
-## Online Version
-Go to the [link of the project](https://todo-next-firebase-lottie.vercel.app/) to see the sample app.
 
 ## Tech stack & Open-source libraries
 
