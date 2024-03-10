@@ -1,4 +1,4 @@
-2<h1 align="center">Tasker</h1><br>
+<h1 align="center">Tasker</h1><br>
 <p align="center">  
 This Firebase app was created for my personal submission in CS-150. This has been made public on 3/10/2024 with my professors permission.
 </p>
