@@ -1,7 +1,7 @@
 <h1 align="center">Todo Next Firebase App</h1><br>
 <p align="center">  
-Todo Next Firebase App is a web application built using Nextjs and Firebase, based on modern web technology stacks.
-The application is a guide that gathers a set of tips to allow those who want the means to learn and master the development of a web application with Nextjs and Firebase.
+This Firebase app was created for my personal submission in CS-150 @ UNLV.
+This has been made public 3/10/2024 with my professors permission.
 </p>
 <br>
 
